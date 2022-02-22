@@ -11,11 +11,6 @@ function Nav(props) {
         setContactSelected
     } = props;
 
-    const handleClick = (item) => {
-        console.log(item);
-        return item;
-    };
-
     useEffect(() => {
         document.title = capitalizeFirstLetter(currentCategory.name);
     }, [currentCategory]);
