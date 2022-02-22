@@ -1,6 +1,6 @@
 {
+  "homepage": "http://mwin1201.github.io/photo-port/",
   "name": "photo-port",
-  "homepage": "https://mwin1201.github.io/photo-port/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
